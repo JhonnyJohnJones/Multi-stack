@@ -4,7 +4,7 @@ Tutorial da Multi-stack #3
 
 ## Requerimentos
 
-### Javascript
+### Javascript / Typescript
 
 Node v16.18.0  
 React v18.2.0
